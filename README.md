@@ -33,7 +33,7 @@ At the top and the bottom patches, a slip condition is applied using symmetryPla
 ## Running the case
 
 ​Mesh is produced using gmsh
-To check the quality of the mesh
+​To check the quality of the mesh
 
 > $ checkMesh
 
